@@ -25,6 +25,7 @@
         <module>plust-engine-api</module>
         <module>plust-engine-basic</module>
         <module>plust-engine-starter</module>
+        <module>plust-messagebus-basic</module>
     </modules>
 
     <properties>
