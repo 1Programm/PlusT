@@ -42,6 +42,8 @@ Structure:
 | S5: Input     | Controller / Handler | [\[plust-sys-input-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-input-api) |
 | S6: Sound     | Controller / Handler | [\[plust-sys-sound-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-sound-api) |
 | S7: Animation | Controller / Handler | [\[plust-sys-animation-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-animation-api) |
+| | | |
+| Framework (fw)| Core | [\[plust-fw-api\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-api) [\[plust-fw-lwjgl\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-lwjgl) [\[plust-fw-swing\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-swing) |
 
 Systems:
 ========
@@ -65,3 +67,5 @@ Manages all sound flow. All Sound can be disabled, enabled or changed there.
 
 ### [\[S7\] Animation:](link/System-Animation)
 Handles running Animation States.
+
+
