@@ -29,21 +29,21 @@ Structure:
 |--------------------------------------------------|
 ```
 
-| Name | Type | Module - Links |
-|---|---|---|
-| Engine | Core | [\[plust-engine-api\]](https://github.com/1Programm/PlusT/tree/master/plust-engine-api) [\[plust-engine-basic\]](https://github.com/1Programm/PlusT/tree/master/plust-engine-basic) [\[plust-engine-starter\]](https://github.com/1Programm/PlusT/tree/master/plust-engine-starter) |
-| | | |
-| MessageBus | Core | [\[plust-messagebus-api\]](https://github.com/1Programm/PlusT/tree/master/plust-messagebus-api) [\[plust-messagebus-basic\]](https://github.com/1Programm/PlusT/tree/master/plust-messagebus-basic)|
-| | | |
-| S1: Framework | Controller / Handler | [\[plust-fw-api\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-api) [\[plust-fw-lwjgl\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-lwjgl) [\[plust-fw-swing\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-swing) |
-| S2: Scene     | Controller / Handler | [\[plust-sys-scene-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-scene-api) |
-| S3: Objects   | Controller / Handler | [\[plust-sys-objects-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-objects-api) |
-| S4: Collision | Controller / Handler | [\[plust-sys-collision-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-collision-api) |
-| S5: Input     | Controller / Handler | [\[plust-sys-input-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-input-api) |
-| S6: Sound     | Controller / Handler | [\[plust-sys-sound-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-sound-api) |
-| S7: Animation | Controller / Handler | [\[plust-sys-animation-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-animation-api) |
-| | | |
-| Framework (fw)| Core | [\[plust-fw-api\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-api) [\[plust-fw-lwjgl\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-lwjgl) [\[plust-fw-swing\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-swing) |
+| Name | Type | Module - Links (api) | Module - Links |
+|---|---|---|---|
+| Engine | Core | [\[plust-engine-api\]](https://github.com/1Programm/PlusT/tree/master/plust-engine-api) | [\[plust-engine-basic\]](https://github.com/1Programm/PlusT/tree/master/plust-engine-basic) [\[plust-engine-starter\]](https://github.com/1Programm/PlusT/tree/master/plust-engine-starter) |
+| | | | |
+| MessageBus | Core | [\[plust-messagebus-api\]](https://github.com/1Programm/PlusT/tree/master/plust-messagebus-api) | [\[plust-messagebus-basic\]](https://github.com/1Programm/PlusT/tree/master/plust-messagebus-basic)|
+| | | | |
+| S1: Framework | Controller / Handler | [\[plust-fw-api\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-api) | [\[plust-fw-lwjgl\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-lwjgl) [\[plust-fw-swing\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-swing) |
+| S2: Scene     | Controller / Handler | [\[plust-sys-scene-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-scene-api) | |
+| S3: Objects   | Controller / Handler | [\[plust-sys-objects-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-objects-api) | |
+| S4: Collision | Controller / Handler | [\[plust-sys-collision-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-collision-api) | |
+| S5: Input     | Controller / Handler | [\[plust-sys-input-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-input-api) | |
+| S6: Sound     | Controller / Handler | [\[plust-sys-sound-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-sound-api) | |
+| S7: Animation | Controller / Handler | [\[plust-sys-animation-api\]](https://github.com/1Programm/PlusT/tree/master/plust-sys-animation-api) | |
+| | | | |
+| Framework (fw)| Core | [\[plust-fw-api\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-api) | [\[plust-fw-lwjgl\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-lwjgl) [\[plust-fw-swing\]](https://github.com/1Programm/PlusT/tree/master/plust-fw-swing) |
 
 Systems:
 ========
