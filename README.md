@@ -29,7 +29,7 @@ Structure:
 |--------------------------------------------------|
 ```
 
-| Name | Type | Module - Links (api) | Module - Links |
+| Name | Type | Module - Links (api) | Module - Links (impl) |
 |---|---|---|---|
 | Engine | Core | [\[plust-engine-api\]](https://github.com/1Programm/PlusT/tree/master/plust-engine-api) | [\[plust-engine-basic\]](https://github.com/1Programm/PlusT/tree/master/plust-engine-basic) [\[plust-engine-starter\]](https://github.com/1Programm/PlusT/tree/master/plust-engine-starter) |
 | | | | |
