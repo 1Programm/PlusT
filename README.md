@@ -47,25 +47,23 @@ Structure:
 
 Systems:
 ========
-### [\[S1\] Framework:](link/System-Framework)
+### [\[S1\] Framework:](https://github.com/1Programm/PlusT/wiki/%5BSystem%5D-Framework)
 Controller to to the MessageBus when to run lifecycle methods of the Framework
 
-### [\[S2\] Scene:](link/System-Scene)
+### [\[S2\] Scene:](https://github.com/1Programm/PlusT/wiki/%5BSystem%5D-Scene)
 Handels a list of scenes and how to load and unload them.
 
-### [\[S3\] Objects:](link/System-Objects)
+### [\[S3\] Objects:](https://github.com/1Programm/PlusT/wiki/%5BSystem%5D-Objects)
 Handels a list of objects which be different on each Scene.
 
-### [\[S4\] Collision:](link/System-Collision)
+### [\[S4\] Collision:](https://github.com/1Programm/PlusT/wiki/%5BSystem%5D-Collision)
 Handels Collision between Objects. Will be called by the [\[S3\] Object - System](link/System-Objects). 
 
-### [\[S5\] Input:](link/System-Input)
+### [\[S5\] Input:](https://github.com/1Programm/PlusT/wiki/%5BSystem%5D-Input)
 Manages Settings for which physical key binds to which In - Game - Controll Input.
 
-### [\[S6\] Sound:](link/System-Sound)
+### [\[S6\] Sound:](https://github.com/1Programm/PlusT/wiki/%5BSystem%5D-Sound)
 Manages all sound flow. All Sound can be disabled, enabled or changed there. 
 
-### [\[S7\] Animation:](link/System-Animation)
+### [\[S7\] Animation:](https://github.com/1Programm/PlusT/wiki/%5BSystem%5D-Animation)
 Handles running Animation States.
-
-
